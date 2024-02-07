@@ -30,3 +30,4 @@ C:\Users\Valvassori\Desktop\aulas\ProjetoCotação\ProjetoCep\ProjetoCep\obj\Deb
 C:\Users\Valvassori\Desktop\aulas\ProjetoCotação\ProjetoCep\ProjetoCep\obj\Debug\net8.0\ProjetoCep.pdb
 C:\Users\Valvassori\Desktop\aulas\ProjetoCotação\ProjetoCep\ProjetoCep\obj\Debug\net8.0\ProjetoCep.genruntimeconfig.cache
 C:\Users\Valvassori\Desktop\aulas\ProjetoCotação\ProjetoCep\ProjetoCep\obj\Debug\net8.0\ref\ProjetoCep.dll
+C:\Users\Valvassori\Desktop\aulas\ProjetoCotação\ProjetoCep\ProjetoCep\obj\Debug\net8.0\ProjetoCep.sourcelink.json
